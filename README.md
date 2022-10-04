@@ -13,7 +13,7 @@ To get started with building AOSP GSI, you'll need to get familiar with [Git and
 	```
 ---
 
-- If you skipped Phhs GSI building guide then issue this command to set everything up: `bash ./ready-distro.sh <optional:git name> <optional:git mail>`
+- If you skipped Phhs GSI building guide then issue this command to set everything up: `bash ./ready-distro.sh <required:git name> <required:git mail>`
 - If you *didn't skip* and *actually read it* like anyone who is about to clone **hundreds of gb**, skip to next part.
 ---
 
