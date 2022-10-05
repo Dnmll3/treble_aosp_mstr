@@ -1,6 +1,5 @@
 # Building PHH-based GSIs #
 
-![treble_stuff]
 
 To get started with building AOSP GSI, you'll need to get familiar with [Git and Repo](https://source.android.com/source/using-repo.html), and set up your environment by referring to [LineageOS Wiki](https://wiki.lineageos.org/devices/redfin/build) (mainly "Install the build packages") and [How to build a GSI](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F).
 
@@ -28,11 +27,11 @@ This script is made by someone who learned how to create .patch files overnight 
 
 If you want flexible, reliable and customizable build scripts feel free to edit my stuff or use the sources I used.
 
-Big shoutout to 
+Thanks
 - [phhusson](https://github.com/phhusson)
 - [AndyYan](https://github.com/AndyCGYan)
 - [Ponces](https://github.com/ponces)
 - [iceows](https://github.com/Iceows)
 - [harvey186](https://github.com/LeOS-GSI)
 - [sooti](https://github.com/sooti)
-- and everyone I yoinked code from.
+- [frax3r](https://github.com/utkustnr)
