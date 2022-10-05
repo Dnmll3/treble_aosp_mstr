@@ -23,4 +23,4 @@ then
 else 
 	echo "I didn't receive any argument, skipping git creds"
 fi
-git clone https://github.com/utkustnr/treble_stuff.git
+git clone https://github.com/mstrbl8r/treble_aosp_mstr.git
