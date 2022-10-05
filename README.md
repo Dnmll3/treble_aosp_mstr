@@ -1,4 +1,4 @@
-# Building PHH-based GSIs #
+# Building PHH-based A13 GSIs #
 
 
 To get started with building AOSP GSI, you'll need to get familiar with [Git and Repo](https://source.android.com/source/using-repo.html), and set up your environment by referring to [LineageOS Wiki](https://wiki.lineageos.org/devices/redfin/build) (mainly "Install the build packages") and [How to build a GSI](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F).
@@ -6,12 +6,11 @@ To get started with building AOSP GSI, you'll need to get familiar with [Git and
 ---
 
 - First, open a new Terminal window in your home directory, yes, home directory cuz I hardcoded it to my script, then clone this repo with the following commands:
+ 
+       Make directory command
+         mkdir treble_aosp_mstr; cd treble_aosp_mstr 
 
-        ```shell
-         mkdir treble_aosp_mstr; cd treble_aosp_mstr
-        ```
-        and 
-
+       Clone Repo
 	```shell
 	git clone https://github.com/mstrbl8r/treble_aosp_mstr.git -b 13 ; cd ./treble_aosp_mstr
 	```
