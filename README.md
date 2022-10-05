@@ -6,13 +6,16 @@ To get started with building AOSP GSI, you'll need to get familiar with [Git and
 ---
 
 - First, open a new Terminal window in your home directory, yes, home directory cuz I hardcoded it to my script, then clone this repo with the following commands:
-   
+       
        Make directory command
-       ```shell
+
+         ```shell
          mkdir treble_aosp_mstr; cd treble_aosp_mstr 
          ```
+
        Clone Repo
-	```shell
+
+        ```shell
 	git clone https://github.com/mstrbl8r/treble_aosp_mstr.git -b 13 ; cd ./treble_aosp_mstr
 	```
 ---
