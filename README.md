@@ -1,6 +1,6 @@
 # Building PHH-based GSIs #
 
-![treble_stuff](https://raw.githubusercontent.com/utkustnr/dotfiles/main/meme.png)
+![treble_stuff]
 
 To get started with building AOSP GSI, you'll need to get familiar with [Git and Repo](https://source.android.com/source/using-repo.html), and set up your environment by referring to [LineageOS Wiki](https://wiki.lineageos.org/devices/redfin/build) (mainly "Install the build packages") and [How to build a GSI](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F).
 
