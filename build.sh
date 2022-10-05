@@ -3,9 +3,7 @@
 echo
 echo "______________________________"
 echo "    AOSP 13.0 BuildScript     "
-echo "             by               "
-echo "           frax3r             "
-echo "    and totally none else     "
+echo "        Make your gsi         "
 echo "______________________________"
 echo
 
@@ -14,7 +12,7 @@ set -e
 initRepos() {
 	if [ ! -f ./.repo/manifest.xml ]; then
 		echo "--> Initializing Repo"
-		repo init -u https://android.googlesource.com/platform/manifest -b android-13.0.0_r4 --depth=1
+		repo init -u https://android.googlesource.com/platform/manifest -b android-13.0.0_r8 --depth=1
 		echo
 
 		#I was dumb and used to do makefiles like this, leaving it just in case
