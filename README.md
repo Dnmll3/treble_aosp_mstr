@@ -9,15 +9,13 @@ To get started with building AOSP GSI, you'll need to get familiar with [Git and
        
        Make directory command
 
-         ```shell
+          ```shell
          mkdir treble_aosp_mstr; cd treble_aosp_mstr 
-         ```
+          ```
 
-       Clone Repo
-
-        ```shell
+          ```shell
 	git clone https://github.com/mstrbl8r/treble_aosp_mstr.git -b 13 ; cd ./treble_aosp_mstr
-	```
+	  ```
 ---
 
 - If you skipped Phhs GSI building guide then issue this command to set everything up: `bash ./ready-distro.sh <required:git name> <required:git mail>`
