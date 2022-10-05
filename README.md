@@ -11,9 +11,8 @@ To get started with building AOSP GSI, you'll need to get familiar with [Git and
 
          mkdir treble_aosp_mstr; cd treble_aosp_mstr 
 
-         ```shell
+         
 	 git clone https://github.com/mstrbl8r/treble_aosp_mstr.git -b 13 ; cd ./treble_aosp_mstr
-	 ```  
 
 
 ---
